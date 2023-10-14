@@ -1,9 +1,8 @@
-***   Hi 👋, I'm Vishnu Chandran
+Hi 👋, I'm Vishnu Chandran
+A passionate DevOps Engineer from India
 
 
-
-
-<img width="683" alt="medium profile icon (Medium)" src="https://github.com/VishAstra/VishAstra/assets/122463168/8ac9c0ab-48ed-446d-a141-dd99f3d1c7f8">
+<img width="1125" alt="medium profile icon" src="https://github.com/VishAstra/VishAstra/assets/122463168/57b17473-1ddf-4c74-9826-430752b7a033">
 
 
 <!--
