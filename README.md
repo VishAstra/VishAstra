@@ -1,7 +1,8 @@
 ***   Hi 👋, I'm Vishnu Chandran
 
 
-<img width="1125" alt="medium profile icon" src="https://github.com/VishAstra/VishAstra/assets/122463168/d6967c11-da09-4a1a-819e-242731edd38e">
+
+<img width="427" alt="medium profile icon (Small)" src="https://github.com/VishAstra/VishAstra/assets/122463168/2a170c52-afcd-43dd-8825-e9677dc2da91">
 
 
 <!--
