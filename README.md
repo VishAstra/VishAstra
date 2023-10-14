@@ -1,7 +1,8 @@
 
 
 
-![Blue Gold Elegant Minimalist Digital Marketer LinkedIn Banner (1584 x 300 px) (1)](https://github.com/VishAstra/VishAstra/assets/122463168/a0f1dc34-864e-42c2-9370-8fa1f9edbe01)
+![Blue Gold Elegant Minimalist Digital Marketer LinkedIn Banner (1584 x 300 px)](https://github.com/VishAstra/VishAstra/assets/122463168/e2f0af71-bf19-41d2-ad4e-4a289b7940ad)
+
 
 
 <!--
