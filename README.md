@@ -2,7 +2,8 @@
 
 
 
-<img width="427" alt="medium profile icon (Small)" src="https://github.com/VishAstra/VishAstra/assets/122463168/2a170c52-afcd-43dd-8825-e9677dc2da91">
+
+<img width="683" alt="medium profile icon (Medium)" src="https://github.com/VishAstra/VishAstra/assets/122463168/8ac9c0ab-48ed-446d-a141-dd99f3d1c7f8">
 
 
 <!--
