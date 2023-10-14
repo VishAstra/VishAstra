@@ -4,7 +4,7 @@
 <img width="1125" alt="medium profile icon" src="https://github.com/VishAstra/VishAstra/assets/122463168/d6967c11-da09-4a1a-819e-242731edd38e">
 
 
-**VishAstra/VishAstra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#**VishAstra/VishAstra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  #
