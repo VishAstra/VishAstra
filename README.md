@@ -20,6 +20,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h3 align="left">Languages and Tools:</h3>
+
+![Git profile tools](https://github.com/VishAstra/VishAstra/assets/122463168/51127796-2172-4668-8b89-acf9cc03d7d9)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VishAstra&show_icons=true&locale=en&layout=compact" alt="VishAstra" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=VishAstra&show_icons=true&locale=en" alt="VishAstra" /></p>
