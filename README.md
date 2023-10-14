@@ -22,7 +22,9 @@ Here are some ideas to get you started:
 
 <h3 align="left">Languages and Tools:</h3>
 
-![Git profile tools](https://github.com/VishAstra/VishAstra/assets/122463168/51127796-2172-4668-8b89-acf9cc03d7d9)
+
+![Git profile tools1](https://github.com/VishAstra/VishAstra/assets/122463168/3991d1c6-d8b2-4914-a88e-2a275df80635)
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VishAstra&show_icons=true&locale=en&layout=compact" alt="VishAstra" /></p>
 
