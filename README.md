@@ -1,6 +1,8 @@
 ***   Hi 👋, I'm Vishnu Chandran
 
-<!--
+
+<!--<img width="1125" alt="medium profile icon" src="https://github.com/VishAstra/VishAstra/assets/122463168/2ce0c106-5e6d-4f3f-b9f7-0b889e83142f">
+
 **VishAstra/VishAstra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
