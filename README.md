@@ -31,3 +31,16 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=VishAstra&show_icons=true&locale=en" alt="VishAstra" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VishAstra&" alt="VishAstra" /></p>
+
+
+## Contact 
+<div> 
+  <a href="https://www.linkedin.com/in/vishnuchandran target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/vishc_11" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto: vishnuchandran911@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ </br>
+</br>
+ 
+  ![Snake animation](https://github.com/vishastra/vishastra/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
