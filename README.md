@@ -41,6 +41,6 @@ Here are some ideas to get you started:
  </br>
 </br>
  
-![snake gif](https://github.com/vishastra/vishastra/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/VishAstra/VishAstra/blob/output/github-contribution-grid-snake.gif)
  
 </div>
