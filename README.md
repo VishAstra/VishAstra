@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VishAstra&" alt="VishAstra" /></p>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=VishAstra&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=VishAstra&theme=ambient-gradient)](https://git.io/streak-stats)
 
 ## Contact 
 <div> 
