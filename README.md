@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=VishAstra&show_icons=true&locale=en" alt="VishAstra" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VishAstra&" alt="VishAstra" /></p>
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=VishAstra&theme=ambient-gradient" alt="GitHub Streak" /></a>
 
