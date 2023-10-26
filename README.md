@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VishAstra&" alt="VishAstra" /></p>
 
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=VishAstra&theme=dark)](https://git.io/streak-stats)
+
 ## Contact 
 <div> 
   <a href="https://www.linkedin.com/in/vishnuchandran" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
